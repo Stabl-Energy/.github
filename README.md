@@ -1,2 +1,4 @@
-# .github
-Our public GitHub profile
+# GitHub Settings
+
+Global GitHub settings.
+Also hosting our public GitHub profile page.
